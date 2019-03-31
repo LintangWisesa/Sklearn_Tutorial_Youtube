@@ -1,6 +1,7 @@
 ![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
 
 # Basic Machine Learning Using Sklearn Tutorial
+## Full Playlist ▶ [watch here!](https://www.youtube.com/playlist?list=PLUf1E7DXqsCtQCbQAEhkR32IFCinhbKhB)
 
 ### __1. Linear Regression__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/1%20Linear%20Regression))
 
