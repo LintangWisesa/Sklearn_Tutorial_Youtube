@@ -27,6 +27,18 @@
 
 #
 
+### __5. Sklearn Toy Datasets__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/5%20Sklearn%20Datasets))
+
+[![lintang](https://img.youtube.com/vi/9thqvfq22q0/0.jpg)](https://www.youtube.com/watch?v=9thqvfq22q0)
+
+#
+
+### __6. Sklearn Real World Datasets__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/5%20Sklearn%20Datasets))
+
+[![lintang](https://img.youtube.com/vi/YptG_4E0UEI/0.jpg)](https://www.youtube.com/watch?v=YptG_4E0UEI)
+
+#
+
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
 
 [Facebook](https://www.facebook.com/lintangbagus) | 
