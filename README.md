@@ -39,6 +39,12 @@
 
 #
 
+### __7. Dummy Variables & Label Encoder__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/7%20Dummy%20Var%20%26%20Label%20Encoder))
+
+[![lintang](https://img.youtube.com/vi/PcQUMaYUnVY/0.jpg)](https://www.youtube.com/watch?v=PcQUMaYUnVY)
+
+#
+
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
 
 [Facebook](https://www.facebook.com/lintangbagus) | 
