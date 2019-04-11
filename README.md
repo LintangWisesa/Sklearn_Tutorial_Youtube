@@ -45,13 +45,13 @@
 
 #
 
-### __8. Decision Tree__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/7%20Dummy%20Var%20%26%20Label%20Encoder))
+### __8. Decision Tree__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/8%20Decision%20Tree))
 
 [![lintang](https://img.youtube.com/vi/Velsua8Sw6s/0.jpg)](https://www.youtube.com/watch?v=Velsua8Sw6s)
 
 #
 
-### __9. Random Forest__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/7%20Dummy%20Var%20%26%20Label%20Encoder))
+### __9. Random Forest__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/9%20Random%20Forest))
 
 [![lintang](https://img.youtube.com/vi/Sp5mqaH4FE0/0.jpg)](https://www.youtube.com/watch?v=Sp5mqaH4FE0)
 
