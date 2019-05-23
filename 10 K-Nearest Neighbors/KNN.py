@@ -42,7 +42,7 @@ print(nilai_k())
 # KNN model
 from sklearn.neighbors import KNeighborsClassifier
 model = KNeighborsClassifier(
-    n_neighbors = 13
+    n_neighbors = nilai_k()
 )
 
 # training
