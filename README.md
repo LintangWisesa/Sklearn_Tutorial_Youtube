@@ -55,6 +55,14 @@
 
 [![lintang](https://img.youtube.com/vi/Sp5mqaH4FE0/0.jpg)](https://www.youtube.com/watch?v=Sp5mqaH4FE0)
 
+### __10. K-Nearest Neighbors__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/10%20K-Nearest%20Neighbors))
+
+[![lintang](https://img.youtube.com/vi/0PwoMs0v8V4/0.jpg)](https://www.youtube.com/watch?v=0PwoMs0v8V4)
+
+### __11. K-Means__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/11%20K-Means))
+
+[![lintang](https://img.youtube.com/vi/xpEib9mhI1o/0.jpg)](https://www.youtube.com/watch?v=xpEib9mhI1o)
+
 #
 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_

@@ -37,7 +37,7 @@ def nilai_k():
         return k+1
     else:
         return k
-print(nilai_k())
+print('Nilai k =', nilai_k())
 
 # KNN model
 from sklearn.neighbors import KNeighborsClassifier
