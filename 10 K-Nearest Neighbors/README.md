@@ -1,0 +1,77 @@
+![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+
+# Basic Machine Learning Using Sklearn Tutorial
+
+### __10. K-Nearest Neighbors__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/10%20K-Nearest%20Neighbors))
+
+[![lintang](https://img.youtube.com/vi/0PwoMs0v8V4/0.jpg)](https://www.youtube.com/watch?v=0PwoMs0v8V4)
+
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.datasets import load_iris
+
+dataIris = load_iris()
+# print(dir(dataIris))
+
+# create dataframe
+dfIris = pd.DataFrame(
+    dataIris['data'],
+    columns = ['sepalL', 'sepalW', 'petalL', 'petalW']
+)
+dfIris['target'] = dataIris['target']
+dfIris['spesies'] = dfIris['target'].apply(
+    lambda x: dataIris['target_names'][x]
+)
+
+# separate dataframe by spesies
+dfSetosa = dfIris[dfIris['target'] == 0]
+dfVersicolor = dfIris[dfIris['target'] == 1]
+dfVirginica = dfIris[dfIris['target'] == 2]
+
+# split dataset test 10% & training 90%
+from sklearn.model_selection import train_test_split
+x_train, x_test, y_train, y_test = train_test_split(
+    dfIris[['sepalL', 'sepalW', 'petalL', 'petalW']],
+    dfIris['target'],
+    test_size = .1
+)
+
+# menentukan nilai k (n_neighbors)
+# k = sqrt(jumlah data) => ganjil
+def nilai_k():
+    k = round((len(x_train) + len(x_test)) ** .5)
+    if (k % 2 == 0):
+        return k+1
+    else:
+        return k
+print('Nilai k =', nilai_k())
+
+# KNN model
+from sklearn.neighbors import KNeighborsClassifier
+model = KNeighborsClassifier(
+    n_neighbors = nilai_k()
+)
+
+# training
+model.fit(x_train, y_train)
+
+# accuracy
+print(model.score(x_test, y_test) * 100, '%')
+
+# predict
+print(model.predict([[6.3, 2.5, 5.0, 1.9]]))
+print(dfIris.tail())
+```
+
+#
+
+#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
+
+[Facebook](https://www.facebook.com/lintangbagus) | 
+[Twitter](https://twitter.com/Lintang_Wisesa) |
+[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
+[Youtube](https://www.youtube.com/user/lintangbagus) | 
+:octocat: [GitHub](https://github.com/LintangWisesa) |
+[Hackster](https://www.hackster.io/lintangwisesa)
