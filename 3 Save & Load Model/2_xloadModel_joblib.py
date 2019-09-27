@@ -1,5 +1,11 @@
+# OLD WAY
 # load model: joblib
-from sklearn.externals import joblib
+# from sklearn.externals import joblib
+# model = joblib.load('2_modelJoblib')
+
+# NEW WAY
+# $ pip install joblib
+import joblib
 model = joblib.load('2_modelJoblib')
 
 # prediction: harga terbaik untuk 300m2, 672m2, 2102m2
