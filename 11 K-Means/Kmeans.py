@@ -50,12 +50,14 @@ centroid = model.cluster_centers_
 print(centroid)
 
 # plot
+fig = plt.figure('K-Means')
+
 plt.scatter(dfSetosa['petalL'], dfSetosa['petalW'], color='r')
 plt.scatter(dfVersicolor['petalL'], dfVersicolor['petalW'], color='g')
 plt.scatter(dfVirginica['petalL'], dfVirginica['petalW'], color='b')
 plt.scatter(centroid[:,0], centroid[:,1], marker='*', color='y', s=300)
 
-plt.legend(['Setosa', 'Versicolor', 'Virginica'])
+plt.legend(['Setosa', 'Versicolor', 'Virginica', 'Centroids'])
 plt.xlabel('Petal length (cm)')
 plt.ylabel('Petal width (cm)')
 plt.grid(True)

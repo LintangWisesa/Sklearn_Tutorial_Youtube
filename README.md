@@ -55,13 +55,29 @@
 
 [![lintang](https://img.youtube.com/vi/Sp5mqaH4FE0/0.jpg)](https://www.youtube.com/watch?v=Sp5mqaH4FE0)
 
+#
+
 ### __10. K-Nearest Neighbors__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/10%20K-Nearest%20Neighbors))
 
 [![lintang](https://img.youtube.com/vi/0PwoMs0v8V4/0.jpg)](https://www.youtube.com/watch?v=0PwoMs0v8V4)
 
+#
+
 ### __11. K-Means__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/11%20K-Means))
 
 [![lintang](https://img.youtube.com/vi/xpEib9mhI1o/0.jpg)](https://www.youtube.com/watch?v=xpEib9mhI1o)
+
+#
+
+### __12. Support Vector Machine__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/12%20Support%20Vector%20Machine))
+
+[![lintang](https://img.youtube.com/vi/CNtfHFAb4l0/0.jpg)](https://www.youtube.com/watch?v=CNtfHFAb4l0)
+
+#
+
+### __13. Cross Validation__ (📂[_click to go to its repo_](https://github.com/LintangWisesa/Sklearn_Tutorial_Youtube/tree/master/13%20Cross%20Validation))
+
+[![lintang](https://img.youtube.com/vi/umueLxxRNaU/0.jpg)](https://www.youtube.com/watch?v=umueLxxRNaU)
 
 #
 
