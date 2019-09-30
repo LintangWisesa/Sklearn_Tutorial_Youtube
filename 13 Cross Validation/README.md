@@ -8,7 +8,7 @@
 
 #
 
-### 1⃣ Scoring Manually
+### ✅ Scoring Manually
 
 ```python
 import pandas as pd
@@ -48,7 +48,7 @@ print('Score RF:', modelrf.score(x_test, y_test))
 
 #
 
-### 2⃣ K-Fold Cross Validation
+### ✅ K-Fold Cross Validation
 
 ```python
 import pandas as pd
@@ -112,7 +112,7 @@ print('Score RF:', np.mean(score_rf))
 
 #
 
-### 3⃣ Sklearn ```cross_val_score()```
+### ✅ Sklearn ```cross_val_score()```
 
 ```python
 import pandas as pd
